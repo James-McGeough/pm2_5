@@ -1,0 +1,39 @@
+**** do we use pm2.5, or aqi????? or sth else
+
+
+
+
+where to get data from? 
+	- could get it from various sources, compile into one location
+
+http://www.aqichina.com/
+http://news.xinhuanet.com/english/china/2013-01/01/c_132075595.htm
+http://www.pm25s.com/en/
+
+Do one for HK:
+http://www.aqhi.gov.hk/en.html?spm=0.0.0.0.oxtboP
+http://www.aqhi.gov.hk/en/annual-aqi/latest-annual-aqi.html
+http://aqicn.org/city/hongkong/
+
+
+
+
+could have geographic averages (maybe averages per province)
+
+graphs per city
+
+main site - most populous cities
+	-regional capitals?
+	- worst? best? 10
+
+
+
+
+
+think about how many times you have to calculate certain things (e.g. for provinces, you could have a 
+dictionary stored that lists which city is where - don't need to find this every time)
+
+
+
+all you need to update is the pm2.5 levels - how often to update?
+
